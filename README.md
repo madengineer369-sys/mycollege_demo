@@ -1,2 +1,3 @@
 # mycollege_demo
-this is my repo
+this is my reposotory
+authoe= rolex
